@@ -1,0 +1,10 @@
+---
+title: "Hello Word"
+author: "Ross Chase"
+date: "10/29/2020"
+output: html_document
+---
+
+
+
+## This is a markdown file. I hope that you have found this course fun and informative. As I have. I know that I have a lot more to learn and I am very excited to do so.
